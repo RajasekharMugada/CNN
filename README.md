@@ -6,6 +6,4 @@ Convolutional Neural Networks hands on
 * Data set 
   - contains few numbers of training and test images
   - Real images, .png, variable size
-* Solution
- - keras synthetic data generator (ImageDataGenerator) is used 
- 
+* keras synthetic data generator (ImageDataGenerator) is used to augument the input image data
