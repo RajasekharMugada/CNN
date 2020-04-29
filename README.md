@@ -13,3 +13,6 @@ Convolutional Neural Networks hands on
   - contains few numbers of training and test images
   - Real images, .png, variable size
 * keras synthetic data generator (ImageDataGenerator) is used to augument the input image data
+
+## cnn_fashion_mnist
+- Dataset of 60,000 28x28 grayscale images of 10 fashion categories, along with a test set of 10,000 images.
